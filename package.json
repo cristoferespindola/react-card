@@ -7,18 +7,13 @@
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8"
   },
-  "scripts": {    
+  "scripts": {
     "start": "react-scripts start",
-    "build-all": "react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "build-css": "node-sass --include-path ./src --include-path ./node_modules src/ -o src/",
-    "watch-css": "npm run build-css && node-sass --include-path ./src --include-path ./node_modules src/ -o src/ --watch --recursive",
-    "start-all": "npm-run-all -p watch-css start-js",
-    "build": "npm run build-css && react-scripts build",
-    "start-js": "react-scripts start"
+    "build-storybook": "build-storybook"
   },
   "eslintConfig": {
     "extends": "react-app"
