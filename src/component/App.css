@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Open Sans"; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+.container {
+  text-align: center; }
+
+.row {
+  position: relative;
+  max-width: 940px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto; }
+  .row:after {
+    content: "";
+    display: block;
+    clear: both; }
+
+.col {
+  width: 100%;
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px; }
+
+@media (min-width: 768px) {
+  .col--mb-1 {
+    width: 25%; }
+  .col--mb-2 {
+    width: 50%; }
+  .col--mb-3 {
+    width: 100%; } }
+
+@media (min-width: 992px) {
+  .col--dk-1 {
+    width: 25%; }
+  .col--dk-2 {
+    width: 50%; }
+  .col--dk-3 {
+    width: 100%; } }
