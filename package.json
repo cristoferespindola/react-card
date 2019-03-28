@@ -25,12 +25,12 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "node-sass": "^4.11.0",
-    "@storybook/react": "^5.0.3",
+    "@babel/core": "^7.4.0",
     "@storybook/addon-actions": "^5.0.3",
     "@storybook/addon-links": "^5.0.3",
     "@storybook/addons": "^5.0.3",
-    "@babel/core": "^7.4.0",
-    "babel-loader": "^8.0.5"
+    "@storybook/react": "^5.0.3",
+    "babel-loader": "^8.0.5",
+    "node-sass": "^4.11.0"
   }
 }

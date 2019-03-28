@@ -1,0 +1,22 @@
+{
+  "main.css": "/main.css",
+  "main.js": "/main.d8f4e82fdbee4f43c3d3.bundle.js",
+  "main.css.map": "/main.css.map",
+  "main.js.map": "/main.d8f4e82fdbee4f43c3d3.bundle.js.map",
+  "runtime~main.js": "/runtime~main.d8f4e82fdbee4f43c3d3.bundle.js",
+  "runtime~main.js.map": "/runtime~main.d8f4e82fdbee4f43c3d3.bundle.js.map",
+  "vendors~main.js": "/vendors~main.d8f4e82fdbee4f43c3d3.bundle.js",
+  "vendors~main.js.map": "/vendors~main.d8f4e82fdbee4f43c3d3.bundle.js.map",
+  "iframe.html": "/iframe.html",
+  "precache-manifest.4de4785922450d0c306b8b36d7899f00.js": "/precache-manifest.4de4785922450d0c306b8b36d7899f00.js",
+  "service-worker.js": "/service-worker.js",
+  "static/media/Amsterdam.jpg": "/static/media/Amsterdam.46527806.jpg",
+  "static/media/Barcelona.jpg": "/static/media/Barcelona.f76c7fd9.jpg",
+  "static/media/Berlin.jpg": "/static/media/Berlin.a382c900.jpg",
+  "static/media/Lagoa.jpg": "/static/media/Lagoa.fefc9b4a.jpg",
+  "static/media/Logo.png": "/static/media/Logo.6aff33fe.png",
+  "static/media/London.jpg": "/static/media/London.67840f71.jpg",
+  "static/media/Paris.jpg": "/static/media/Paris.4a269162.jpg",
+  "static/media/Venice.jpg": "/static/media/Venice.f36dc607.jpg",
+  "static/media/episode_7.jpg": "/static/media/episode_7.a2e408d0.jpg"
+}
