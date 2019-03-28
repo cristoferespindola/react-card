@@ -1,0 +1,23 @@
+$bg-primary-color: #fff;
+$bg-default-color: #0069D9;
+
+$font-default-color: #fff;
+$font-alternate-color: #000;
+
+.btn {
+    color: $font-default-color;
+    border-radius: 5px;
+    border: 1px solid $bg-default-color;
+    background-color: $bg-default-color;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.btn--primary {
+    color: $font-default-color;
+    border: 1px solid $font-default-color;
+    background-color: transparent;
+   
+}
